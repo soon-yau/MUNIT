@@ -16,41 +16,46 @@ Please check out the [user manual page](USAGE.md).
 
 [Xun Huang](http://www.cs.cornell.edu/~xhuang/), [Ming-Yu Liu](http://mingyuliu.net/), [Serge Belongie](https://vision.cornell.edu/se3/people/serge-belongie/), [Jan Kautz](http://jankautz.com/), "[Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732)" arXiv preprint arXiv:1804.04732
 
-#### Results Video
+### Results Video
 [![](results/video.jpg)](https://youtu.be/ab64TWzWn40)
 
-#### Edges to Shoes/handbags Translation
+### Edges to Shoes/handbags Translation
 
 ![](results/edges2shoes_handbags.jpg)
 
-#### Animal Image Translation
+### Animal Image Translation
 
 ![](results/animal.jpg)
 
-#### Street Scene Translation
+### Street Scene Translation
 
 ![](results/street.jpg)
 
-#### Yosemite Summer to Winter Translation (HD)
+### Yosemite Summer to Winter Translation (HD)
 
 ![](results/summer2winter_yosemite.jpg)
 
-#### Example-guided Image Translation
+### Example-guided Image Translation
 
 ![](results/example_guided.jpg)
 
-#### Citation
+### Other Implementations
+
+[MUNIT-Tensorflow](https://github.com/taki0112/MUNIT-Tensorflow) by [Junho Kim](https://github.com/taki0112)
+
+[MUNIT-keras](https://github.com/shaoanlu/MUNIT-keras) by [shaoanlu](https://github.com/shaoanlu)
+
+### Citation
 
 If you find this code useful for your research, please cite our paper:
 
 ```
 @article{huang2018munit,
-  title={Multimodal UNsupervised Image-to-image Translation Networks},
+  title={Multimodal Unsupervised Image-to-image Translation},
   author={Huang, Xun and Liu, Ming-Yu and Belongie, Serge and Kautz, Jan},
   journal={arXiv preprint arXiv:1804.04732},
   year={2018}
 }
 ```
-
 
 
