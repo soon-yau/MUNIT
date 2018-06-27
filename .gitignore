@@ -10,7 +10,6 @@ notebooks/.ipynb_checkpoints/*
 exps/
 src/yaml_generator.py
 *.tar.gz
-*ipynb
 *.zip
 *.pkl
 *.pyc
